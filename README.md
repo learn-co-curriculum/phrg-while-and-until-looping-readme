@@ -75,4 +75,8 @@ end
 * Inside the block, we will `puts` a phrase and increment the counter by `1`.
 * Then, the program will go back to the top of the `until` loop and once again check to see if the counter is equal to `20`. If it is *not* true that the counter is equal to `20`, then the program will continue executing the code in the block. Otherwise, the program will break out of the loop.
 
+## Does this need an update?
+
+Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-while-and-until-looping-readme/pulls) or [pull-request](https://github.com/learn-co-curriculum/phrg-while-and-until-looping-readme/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 <p data-visibility='hidden'>PHRG The `while` and `until` Constructs</p>
